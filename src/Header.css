@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+
+}
+
+.header_center{
+    display: flex;
+}
+
+.header_center > img {
+    object-fit: contain;
+    height: 250px;
+}
